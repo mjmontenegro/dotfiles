@@ -2,7 +2,7 @@
 export PATH="$HOME/bin:$PATH";
 
 # Add Visual Studio Code to the '$PATH'
-export PATH="\$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
+export PATH="$PATH:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
 # Load the shell dotfiles, and then some:
 # * ~/.path can be used to extend `$PATH`.
